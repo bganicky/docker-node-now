@@ -1,3 +1,3 @@
-FROM node:alpine
+FROM node:10
 
 RUN npm i -g now
